@@ -86,5 +86,6 @@ footer {
     font-family: var(--fonte-secundaria);
     color: var(--preto-primario);
     font-size: 14px;
+    font-weight: bold;
     margin-bottom: 40px;
 }
