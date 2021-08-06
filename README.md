@@ -53,4 +53,3 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [zygelle](https://github.com/zygelle)
-- Twitter [@gyselle_mello](https://twitter.com/gyselle_mello)
